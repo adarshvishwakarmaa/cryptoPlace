@@ -7,11 +7,6 @@ CryptoPlace is a cryptocurrency dashboard that provides real-time Bitcoin data u
 
 
 
-## Preview
-![Screenshot 2024-11-11 095556](![image](https://github.com/user-attachments/assets/f2c4e636-cb97-437f-acc5-19cae8b12a94))
-![Screenshot 2024-11-11 095556](![image](https://github.com/user-attachments/assets/66c53462-b7c8-4e81-ad8a-eea3c7aa68a7)
-)
-
 
 
 
