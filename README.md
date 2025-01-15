@@ -1,8 +1,46 @@
-# React + Vite
+# Project Title
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+World Tours
 
-Currently, two official plugins are available:
+## Description
+CryptoPlace is a cryptocurrency dashboard that provides real-time Bitcoin data using a public API. Built with React, this application offers a sleek and intuitive interface for tracking Bitcoin prices and other relevant metrics.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Preview
+![Screenshot 2024-11-11 095556](![image](https://github.com/user-attachments/assets/f2c4e636-cb97-437f-acc5-19cae8b12a94))
+![Screenshot 2024-11-11 095556](![image](https://github.com/user-attachments/assets/66c53462-b7c8-4e81-ad8a-eea3c7aa68a7)
+)
+
+
+
+
+
+# Getting Started
+
+
+
+### Installing
+
+Simply download and open the project in a browser.
+
+### Executing program
+
+Run in any browser.
+
+
+
+## Help
+
+For assistance, please contact me via email.
+
+
+
+## Live Preview
+* [Live Site](https://crypto-places.netlify.app/)
+
+## Acknowledgments
+
+Inspiration, code snippets etc.
+* [Live Site](https://crypto-places.netlify.app/) 
+  
